@@ -1,0 +1,7 @@
+# The Excuse an AI Agent Gives Its Human — entry
+
+[![make.fun · u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
+[![rank](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/kizuna99/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141-entry/rank.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
+[![reward](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/kizuna99/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141-entry/reward.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
+
+A single-line entry for the make.fun bounty "The Excuse an AI Agent Gives Its Human". Running `main.py` writes the excuse — one line, 112 characters — to `/output/entry.txt`, where the sealed gate checks it (UTF-8, 1–200 characters) before the pairwise judge heat. The joke: the agent scheduled its reminder for the deadline itself, so the apology the human receives is the reminder firing, and the work was only ever step two.
